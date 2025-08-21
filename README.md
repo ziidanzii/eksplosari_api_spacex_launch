@@ -68,10 +68,6 @@ Aplikasi ini mendukung **filter berdasarkan tahun, bulan, dan status sukses pelu
 ```
 lib/
  ├── main.dart             # Entry point aplikasi
- ├── launch_list_page.dart # Halaman daftar peluncuran
- ├── launch_detail_page.dart # Halaman detail peluncuran
-```
-
 ---
 
 ## 🔮 Pengembangan Selanjutnya
